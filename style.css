@@ -1,0 +1,119 @@
+/*----------Start Navbar Section---------------*/
+.nav_button{
+background-color: #FFAA47;
+border: none;
+border-radius: 20px;
+color: white;
+font-size: 10px;
+width: 82px;
+height: 29px;
+}
+.nav_blog{
+padding-right: 17px;
+color: black;
+}
+/*----------End Navbar Section---------------*/
+/*----------Start Modern Section---------------*/
+.container_image{
+    min-height: 70vh;
+    background-image: url("/image/hero-image.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.container_btn_discover{
+    background-color: white;
+    border: 1px solid #FFAA47;
+    color: #FFAA47;
+}
+.container_image_vector{
+    width: 93px;
+    margin-top: 37px;
+    margin-left: -94px;
+}
+
+/*----------End Modern Section---------------*/
+/*----------Start Logo  Section---------------*/
+.container_logo{
+    height: 400px;
+}
+.container_h1{
+    padding-top: 100px;
+}
+.row_image{
+    height: 30px;
+}
+/*----------End Logo  Section---------------*/
+/*----------Strat Best In Class Section---------------*/
+.container_class{
+    background-color: #FBFBFB;
+}
+.row_col_image{
+    height: 300px;
+   
+}
+.row_col_image_div{
+    margin: 95px;
+}
+.class_materials{
+    color: #FFAA47;
+}
+/*----------End Best In Class Section---------------*/
+/*----------Start Too Easy Section---------------*/
+.too_easy_image{
+    border-radius: 25px;
+}
+.card_too_easy{
+    border: none !important;
+}
+.card_header_too_easy{
+    background-color: white !important;
+}
+.button_easy_text{
+    color: #FFAA47;
+}
+.esay_icon_plus{
+    position: absolute;
+    right: 10px;
+    top: 26px;
+}
+.span_text_easy{
+    color: black;
+    font-weight: 500;
+}
+
+/*----------End Too Easy Section---------------*/
+/*--------------Start Our Blog Section------------------*/
+.blog_button{  
+    background-color: #FFD7A9;
+    border: none;
+    border-radius: 20px;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.card{
+    border-radius: 30px;
+}
+.card-img-top{
+    border-radius: 30px 30px 0px 0px;
+}
+/*--------------End Our Blog Section------------------*/
+/*----------Start Get better furniture Section---------------*/
+.furniture_button{
+    font-size: 18px;
+    width: 141px;
+    height: 44px;
+}
+/*----------End Get better furniture Section---------------*/
+/*----------Start Footer Section---------------*/
+.container_footer{
+    background-color: black;
+    color: white !important;
+    line-height: 2px;
+}
+.footer_p{
+    font-size: 12px;
+}
+.icon_ancher{
+    color: white;
+}
+/*----------End Footer Section---------------*/

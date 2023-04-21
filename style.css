@@ -16,7 +16,7 @@ color: black;
 /*----------Start Modern Section---------------*/
 .container_image{
     min-height: 70vh;
-    background-image: url("/image/hero-image.png");
+    background-image: url("image/hero-image.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }

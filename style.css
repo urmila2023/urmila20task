@@ -69,7 +69,7 @@ color: black;
     background-color: white !important;
 }
 .button_easy_text{
-    color: #FFAA47;
+    color: #FFAA47 !important;
 }
 .esay_icon_plus{
     position: absolute;
@@ -97,14 +97,14 @@ color: black;
     left: -39px; 
 }
 .profile_div{
-    width: 450px;
     position: absolute;
     height: 165px;
     background-color: white;
     z-index: 1;
-    margin-left: 379px;
+    margin-left: 272px;
     margin-top: 165px;
     border-radius: 18px;
+    text-align: center;
 }
 .easy_profile_p{
     font-size: 22px;
@@ -176,3 +176,71 @@ color: black;
     color: white;
 }
 /*----------End Footer Section---------------*/
+
+
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*External*/
+.carousel {
+	width: 650px;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+.carousel .item {
+	color: #999;
+	font-size: 14px;
+	overflow: hidden;
+    min-height: 340px;
+}
+.carousel .item a {
+	color: #eb7245;
+}
+.carousel .img-box {
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+.carousel .img-box img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.carousel .testimonial {	
+	padding: 0px;
+}
+.carousel .overview {	
+	text-align: center;
+}
+.carousel .overview b {
+	color: #333;
+	font-size: 15px;
+	text-transform: uppercase;
+	display: block;	
+	padding-bottom: 0px;
+}
+.carousel .star-rating i {
+	font-size: 18px;
+	color: #ffdc12;
+}
+.carousel .carousel-control {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+    background: #999;
+    text-shadow: none;
+	top: 4px;
+}
+.carousel-control i {
+	font-size: 20px;
+	margin-right: 2px;
+}
+.carousel-control.left {
+	left: auto;
+	right: 40px;
+}
+.carousel-control.right i {
+	margin-right: -2px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
